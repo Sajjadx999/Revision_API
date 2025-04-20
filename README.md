@@ -11,3 +11,5 @@ Test Case
 Testing Data Table
 
 Result Link
+
+Result Flow chart
